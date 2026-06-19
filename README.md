@@ -1,4 +1,4 @@
-# criador-de-legendas-din-micas-em-python
+# criador de legendas dinâmicas em python
 Este script permite criar legendas dinâmicas através dos modelos Whisper.
 Perfeitas para criar vídeos shorts virais.
 
